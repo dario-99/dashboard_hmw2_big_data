@@ -9,11 +9,11 @@
 Activate the venv then install the dependencies
 
 ```bash
-    python -m pip install requirements.txt
+    python -m pip install -r requirements.txt
 ```
 
 Then run the streamlit application
 
 ```bash
-    streamlit run src/app.py
+    streamlit run .\src\0_🏠_Home.py
 ```

@@ -1,0 +1,32 @@
+funder	funds
+european commission	2.863366132E9
+ministry of education, universities and research	4.95857743E8
+medical research council	8.0444483E7
+engineering and physical sciences research council	3.1308013E7
+european research council	2.562575E7
+biotechnology and biological sciences research council	1.3257773E7
+telethon foundation	1.1549052E7
+economic and social research council	4896585.0
+swiss national science foundation	2184410.0
+natural environment research council	1268127.0
+science and technology facilities council	702280.0
+united states department of the navy	530536.0
+foundation fighting blindness	525869.0
+australian research council	253794.0
+united states air force	253787.0
+arts and humanities research council	165404.0
+juvenile diabetes research foundation	125997.0
+american heart association	110985.0
+fundação para a ciência e tecnologia	101456.0
+crohn's and colitis foundation	99002.0
+brain & behavior research foundation	60960.0
+japan society for the promotion of science	36982.0
+breast cancer now	20378.0
+agricultural research service	
+qatar national research fund	
+deutsche forschungsgemeinschaft	
+belgian federal science policy office	
+italian association for cancer research	
+national aeronautics and space administration	
+council for international exchange of scholars	
+agencia nacional de investigación y desarrollo	
