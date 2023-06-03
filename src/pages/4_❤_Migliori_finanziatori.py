@@ -72,3 +72,4 @@ with st.expander("Query con MongoDB"):
     st.code(mongo)
 with st.expander("Query con Cypher"):
     st.code(cypher, language='cypher')
+    st.image("assets/q4.PNG")
